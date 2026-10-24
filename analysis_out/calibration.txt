@@ -1,0 +1,10 @@
+realistic LOO full-train: docs=3000 accepted=524 rejected=2476 crashed=0
+  accepted=524 field_FP=2 ['tr_01371', 'tr_02183'] validity_FP=0
+fold0: docs=600 accepted=85 (14.2%) field_FP=1 ['tr_01371'] validity_FP=0
+fold1: docs=600 accepted=72 (12.0%) field_FP=0 [] validity_FP=0
+fold2: docs=600 accepted=78 (13.0%) field_FP=1 ['tr_02183'] validity_FP=0
+fold3: docs=600 accepted=93 (15.5%) field_FP=0 [] validity_FP=0
+fold4: docs=600 accepted=78 (13.0%) field_FP=0 [] validity_FP=0
+folds summary: mean_accept_rate=13.5% spread=3.5% total_field_FP=2 total_validity_FP=0
+spread gate: PASS on the controller-ratified reading (<=15 percentage points); strict '%-of-mean' reading (<= 2.0%): FAIL — see Amendment Log note 2026-10-24b
+all fold FP docs: ['tr_01371', 'tr_02183']

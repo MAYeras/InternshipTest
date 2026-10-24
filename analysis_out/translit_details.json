@@ -1,0 +1,352 @@
+{
+ "-": {
+  "consistency": 1.0,
+  "count": 55,
+  "mrz": "<",
+  "source": "empirical",
+  "votes": {
+   "<": 55
+  }
+ },
+ "Ё": {
+  "consistency": 1.0,
+  "count": 1,
+  "mrz": "E",
+  "source": "gost_fallback",
+  "votes": {
+   "2": 1
+  }
+ },
+ "А": {
+  "consistency": 0.998417,
+  "count": 8844,
+  "mrz": "A",
+  "source": "empirical",
+  "votes": {
+   "2": 1,
+   "4": 12,
+   "A": 8830,
+   "N": 1
+  }
+ },
+ "Б": {
+  "consistency": 0.999027,
+  "count": 1028,
+  "mrz": "B",
+  "source": "empirical",
+  "votes": {
+   "B": 1027,
+   "E": 1
+  }
+ },
+ "В": {
+  "consistency": 0.99887,
+  "count": 4424,
+  "mrz": "V",
+  "source": "empirical",
+  "votes": {
+   "V": 4419,
+   "W": 5
+  }
+ },
+ "Г": {
+  "consistency": 0.996916,
+  "count": 1297,
+  "mrz": "G",
+  "source": "empirical",
+  "votes": {
+   "8": 1,
+   "C": 3,
+   "G": 1293
+  }
+ },
+ "Д": {
+  "consistency": 0.998813,
+  "count": 1685,
+  "mrz": "D",
+  "source": "empirical",
+  "votes": {
+   "0": 2,
+   "D": 1683
+  }
+ },
+ "Е": {
+  "consistency": 0.998331,
+  "count": 3594,
+  "mrz": "E",
+  "source": "empirical",
+  "votes": {
+   "E": 3588,
+   "F": 4,
+   "L": 2
+  }
+ },
+ "Ж": {
+  "consistency": 0.993769,
+  "count": 321,
+  "mrz": "J",
+  "source": "empirical",
+  "votes": {
+   "H": 1,
+   "J": 319,
+   "K": 1
+  }
+ },
+ "З": {
+  "consistency": 1.0,
+  "count": 901,
+  "mrz": "Z",
+  "source": "empirical",
+  "votes": {
+   "Z": 901
+  }
+ },
+ "И": {
+  "consistency": 0.998476,
+  "count": 5904,
+  "mrz": "I",
+  "source": "empirical",
+  "votes": {
+   "1": 7,
+   "3": 1,
+   "I": 5895,
+   "L": 1
+  }
+ },
+ "Й": {
+  "consistency": 1.0,
+  "count": 696,
+  "mrz": "Q",
+  "source": "empirical",
+  "votes": {
+   "Q": 696
+  }
+ },
+ "К": {
+  "consistency": 0.997995,
+  "count": 2494,
+  "mrz": "K",
+  "source": "empirical",
+  "votes": {
+   "0": 1,
+   "<": 4,
+   "K": 2489
+  }
+ },
+ "Л": {
+  "consistency": 0.998737,
+  "count": 3166,
+  "mrz": "L",
+  "source": "empirical",
+  "votes": {
+   "A": 1,
+   "D": 1,
+   "L": 3162,
+   "R": 1,
+   "S": 1
+  }
+ },
+ "М": {
+  "consistency": 0.997075,
+  "count": 2051,
+  "mrz": "M",
+  "source": "empirical",
+  "votes": {
+   "M": 2045,
+   "N": 5,
+   "Y": 1
+  }
+ },
+ "Н": {
+  "consistency": 0.997253,
+  "count": 5097,
+  "mrz": "N",
+  "source": "empirical",
+  "votes": {
+   "H": 5,
+   "M": 9,
+   "N": 5083
+  }
+ },
+ "О": {
+  "consistency": 0.997814,
+  "count": 4575,
+  "mrz": "O",
+  "source": "empirical",
+  "votes": {
+   "0": 5,
+   "O": 4565,
+   "Q": 4,
+   "S": 1
+  }
+ },
+ "П": {
+  "consistency": 1.0,
+  "count": 557,
+  "mrz": "P",
+  "source": "empirical",
+  "votes": {
+   "P": 557
+  }
+ },
+ "Р": {
+  "consistency": 0.999665,
+  "count": 2989,
+  "mrz": "R",
+  "source": "empirical",
+  "votes": {
+   "J": 1,
+   "R": 2988
+  }
+ },
+ "С": {
+  "consistency": 0.995614,
+  "count": 2052,
+  "mrz": "S",
+  "source": "empirical",
+  "votes": {
+   "5": 5,
+   "O": 3,
+   "S": 2043,
+   "U": 1
+  }
+ },
+ "Т": {
+  "consistency": 0.999477,
+  "count": 1911,
+  "mrz": "T",
+  "source": "empirical",
+  "votes": {
+   "G": 1,
+   "T": 1910
+  }
+ },
+ "У": {
+  "consistency": 0.996514,
+  "count": 1721,
+  "mrz": "U",
+  "source": "empirical",
+  "votes": {
+   "3": 1,
+   "U": 1715,
+   "V": 5
+  }
+ },
+ "Ф": {
+  "consistency": 0.998682,
+  "count": 759,
+  "mrz": "F",
+  "source": "empirical",
+  "votes": {
+   "E": 1,
+   "F": 758
+  }
+ },
+ "Х": {
+  "consistency": 0.997866,
+  "count": 937,
+  "mrz": "H",
+  "source": "empirical",
+  "votes": {
+   "H": 935,
+   "M": 1,
+   "N": 1
+  }
+ },
+ "Ц": {
+  "consistency": 1.0,
+  "count": 226,
+  "mrz": "C",
+  "source": "empirical",
+  "votes": {
+   "C": 226
+  }
+ },
+ "Ч": {
+  "consistency": 0.997006,
+  "count": 1670,
+  "mrz": "3",
+  "source": "empirical",
+  "votes": {
+   "3": 1665,
+   "8": 5
+  }
+ },
+ "Ш": {
+  "consistency": 0.996604,
+  "count": 589,
+  "mrz": "4",
+  "source": "empirical",
+  "votes": {
+   "4": 587,
+   "A": 2
+  }
+ },
+ "Щ": {
+  "consistency": 0.980769,
+  "count": 52,
+  "mrz": "W",
+  "source": "empirical_flagged",
+  "votes": {
+   "4": 1,
+   "W": 51
+  }
+ },
+ "Ъ": {
+  "consistency": 1.0,
+  "count": 4,
+  "mrz": "6",
+  "source": "gost_fallback",
+  "votes": {
+   "X": 4
+  }
+ },
+ "Ы": {
+  "consistency": 1.0,
+  "count": 320,
+  "mrz": "Y",
+  "source": "empirical",
+  "votes": {
+   "Y": 320
+  }
+ },
+ "Ь": {
+  "consistency": 0.998716,
+  "count": 779,
+  "mrz": "9",
+  "source": "empirical",
+  "votes": {
+   "9": 778,
+   "B": 1
+  }
+ },
+ "Э": {
+  "consistency": 1.0,
+  "count": 134,
+  "mrz": "6",
+  "source": "empirical",
+  "votes": {
+   "6": 134
+  }
+ },
+ "Ю": {
+  "consistency": 1.0,
+  "count": 270,
+  "mrz": "7",
+  "source": "empirical",
+  "votes": {
+   "7": 270
+  }
+ },
+ "Я": {
+  "consistency": 0.998265,
+  "count": 1153,
+  "mrz": "8",
+  "source": "empirical",
+  "votes": {
+   "5": 1,
+   "8": 1151,
+   "B": 1
+  }
+ }
+}
